@@ -2,7 +2,7 @@
 Simple hash table with chaining using OOP
 
 Creating Table:
-Use "HashTable([tableLength])".  |  e.g. "HashTable(100)" for table of length 100
+Use "HashTable([tableLength])".  |  e.g. "myTable = HashTable(100)" for table of length 100
 
 Adding data to table:
 Use "[TableObject].insert(data)".  |  e.g. "myTable.insert('Splendid')"
